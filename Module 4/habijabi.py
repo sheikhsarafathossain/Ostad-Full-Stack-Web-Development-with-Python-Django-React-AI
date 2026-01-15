@@ -12,3 +12,10 @@ class Car:
 
 c1 = Car("Toyota", "Corolla", "Petrol Engine")
 c1.printAll()
+
+class BankAccount:
+    def withdraw_money(self):
+        print("Money withdrawn!")
+
+b1 = BankAccount()
+b1.withdraw_money()
