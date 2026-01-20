@@ -68,6 +68,12 @@ class BankAccount:
         self.balance = 12.0 # Public variable
         self.__pin = 1234 # Private
 
+    def __init__(self, name, balance, pin):
+        self._name = name
+        self.balance = balance
+        self.__pin = pin
+        
+
 
 ba = BankAccount()
 print(ba.balance)
