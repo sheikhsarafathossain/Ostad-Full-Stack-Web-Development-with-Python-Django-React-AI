@@ -1,1 +1,3 @@
 # Theory
+class encap:
+    pass

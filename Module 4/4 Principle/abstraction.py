@@ -1,1 +1,3 @@
 # Theory
+class abst:
+    pass
