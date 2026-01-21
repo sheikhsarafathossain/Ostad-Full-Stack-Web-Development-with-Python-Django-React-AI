@@ -6,4 +6,4 @@ print(add(4,3))
 print(sub(5,3))
 #package is collection 
 
-
+print(__name__)
