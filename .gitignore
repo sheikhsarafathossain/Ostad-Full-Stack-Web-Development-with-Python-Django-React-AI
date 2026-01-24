@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+venv/
+.env/
+
+# Editors
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# VS Code Code Runner temp files
+tempCodeRunnerFile.py
+coderunner.py
+coderunnertemp.py
+coderunner*
